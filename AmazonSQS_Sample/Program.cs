@@ -24,6 +24,7 @@ namespace AmazonSQS_Sample
                 do
                 {
 
+                    // new test comment
                     insert_message("Insert Option Number");
                     insert_message(" 1. Create SQS Queue");
                     insert_message(" 2. Show list SQS Queue");
